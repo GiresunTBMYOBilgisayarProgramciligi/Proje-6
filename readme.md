@@ -2,3 +2,4 @@
 
 ###Geliştiriciler###
 -Yunus Emre KIZILASLAN
+-Eray ÖNER
