@@ -3,3 +3,4 @@
 ###Geliştiriciler###
 -Yunus Emre KIZILASLAN
 -Eray ÖNER
+-Eslem Baran Günek
